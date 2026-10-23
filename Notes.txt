@@ -1,0 +1,23 @@
+Data Type
+
+1.Interger
+2.String
+3.Float
+4.Boolean
+5.None
+
+Interger is positive, negative and zero (25,-25,0)
+String is single quote, double quote and triple quote ('', "", '" "') usually perfer to use doublw quotes
+
+Float is decimal value (3.99, 2.4, 9.0)
+Boolean is True and False (capital T and F is important)
+None is not single type value storge.
+
+
+
+--------------Keywords----------
+Keywords are reserved words in python.
+
+and, else
+
+
