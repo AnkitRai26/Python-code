@@ -89,19 +89,21 @@
 
 # PQ = 
 
-class Student:
-    college_Name = "D.Y Patil"
+# class Student:
+#     college_Name = "D.Y Patil"
 
-    def __init__(self,subject, marks):
-        self.subject = subject #obj attr > class attr
-        self.mark = marks
+#     def __init__(self,names, marks):
+#         self.names = names #obj attr > class attr
+#         self.marks = marks
     
-    def welcome(self):
-        print("welcome student,", self.subject)
-    def get_marks(self):
-        return self.mark
+#     def welcome(self):
+#         print("welcome student,", self.names)
+#     def get_marks(self):
+#         sum = 0
+#         for val in self.marks:
+#             sum += val
+#         print("hi", self.names, "your avg score is:-", sum/3) 
 
-s1 = Student("Maths", 72)
-s2 = Student("Physics", 85)
-s3 = Student("Chemistry", 74)
-print((s1.get_marks()+s2.get_marks() +s3.get_marks())/3)
+# s1 = Student("A.Kumar", [92, 75, 72])
+
+# s1.get_marks()
