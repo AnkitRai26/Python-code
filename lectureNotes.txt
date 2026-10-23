@@ -1,0 +1,32 @@
+String Functions
+
+str = "I am coder."
+str.endswith("er.") # returns true if string with substr
+str.capitalize() #capitalizers 1 char
+str.replace() # replaces all occurences of old with new
+str.find(old, new) #returns 1st index of 1st occurrence
+str.find( word ) #returns 1st index of 1st occurrence
+str.count("am") #counts the occurence of substr in string
+
+
+Condition Statements
+if-elif-else(syntax)
+if(condition): indentation
+    statement1
+elif(condition):
+    statement2
+else(condition)
+    statement3
+
+if(condition):
+    if(condition):
+        condition
+    else:
+        condition
+else:
+    condition
+This is called nesting
+
+
+
+
